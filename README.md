@@ -21,7 +21,7 @@ The project directory is organized as follows:
   - `requirements.txt`: List of required Python libraries.
   - `generate_reportss.py`: Script for generating a comprehensive report from the analysis.
   - `mbti_info.csv`: CSV file containing MBTI information and mappings.
-  - `mbti_1.py`: Script for determining the MBTI personality type of candidates.
+  - `mbti_1.csv`: Script for determining the MBTI personality type of candidates.
   -   Download mbti_1.csv ->  https://www.kaggle.com/datasets/datasnaek/mbti-type
 
   - `competency_data.csv`: CSV file containing data related to candidate competencies.
