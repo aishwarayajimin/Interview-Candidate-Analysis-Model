@@ -14,9 +14,16 @@ The Comprehensive Interview Analysis System leverages advanced machine learning 
 - **MBTI Assessment**: Determines the candidate's MBTI personality type based on their responses.
 - **Report Generation**: Compiles the results of all analyses into a comprehensive report.
 
-## Installation
+  ##
+## Structure
+The project directory is organized as follows:
+  - `training_model2copy.py`: Main script for training the predictive model.
+  - `requirements.txt`: List of required Python libraries.
+  - `generate_report.py`: Script for generating a comprehensive report from the analysis.
+  - `mbti_info.csv`: CSV file containing MBTI information and mappings.
+  - `mbti_1.py`: Script for determining the MBTI personality type of candidates.
+  -   Download mbti_1.csv ->  https://www.kaggle.com/datasets/datasnaek/mbti-type
 
-To run this project, you will need Python and the required libraries. You can install the necessary libraries using the following command:
+  - `competency_data.csv`: CSV file containing data related to candidate competencies.
+    
 
-```bash
-pip install -r requirements.txt
