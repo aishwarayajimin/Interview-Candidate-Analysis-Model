@@ -17,9 +17,9 @@ The Comprehensive Interview Analysis System leverages advanced machine learning 
   ##
 ## Structure
 The project directory is organized as follows:
-  - `training_model2copy.py`: Main script for training the predictive model.
+  - `main.py`: Main script for training the predictive model.
   - `requirements.txt`: List of required Python libraries.
-  - `generate_report.py`: Script for generating a comprehensive report from the analysis.
+  - `generate_reportss.py`: Script for generating a comprehensive report from the analysis.
   - `mbti_info.csv`: CSV file containing MBTI information and mappings.
   - `mbti_1.py`: Script for determining the MBTI personality type of candidates.
   -   Download mbti_1.csv ->  https://www.kaggle.com/datasets/datasnaek/mbti-type
