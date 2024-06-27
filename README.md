@@ -25,5 +25,6 @@ The project directory is organized as follows:
   -   Download mbti_1.csv ->  https://www.kaggle.com/datasets/datasnaek/mbti-type
 
   - `competency_data.csv`: CSV file containing data related to candidate competencies.
+  - After running main.py Analysis_report.html will be generated.
     
 
